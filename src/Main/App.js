@@ -1,9 +1,7 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 import { Button } from 'antd-mobile';
-
-
 
 function App() {
   return (
